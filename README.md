@@ -3,6 +3,8 @@
 other source- 
 MSDN Link : https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/consumer-apis/password-hashing?view=aspnetcore-2.2
 
+@ implemented to project : http://github.com/JieunKwon/
+
 Why we use salt 
 -----
 
