@@ -3,7 +3,7 @@
 other source- 
 MSDN Link : https://docs.microsoft.com/en-us/aspnet/core/security/data-protection/consumer-apis/password-hashing?view=aspnetcore-2.2
 
-@ implemented to project : http://github.com/JieunKwon/
+@ implemented to my project : https://github.com/JieunKwon/CSharp_WebApp_CourseRegister
 
 Why we use salt 
 -----
